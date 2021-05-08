@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Uni Projects
+- 🌱 I’m currently learning Data Structures and Algorithms
+- ⚡ Fun fact: I like fried chicken
+
 
 <!--
 **asrindayananda/asrindayananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
