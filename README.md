@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adobe Commerce (Magento 2), GitHub Actions Automations, AWS
+- 🔭 I’m currently working on Adobe Commerce (Magento 2), GitHub Actions Automations, AWS, Azure & Android App 
 - 🌱 I’m currently learning Adobe Commerce, CI/CD, Defensive programming
 - ⚡ Fun fact: I like fried chicken
 
