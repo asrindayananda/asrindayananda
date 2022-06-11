@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adobe Commerce (Magento 2), GitHub Actions Automations, AWS, Azure & Android App 
-- 🌱 I’m currently learning Adobe Commerce, CI/CD, Defensive programming
+- 🔭 I’m currently working on Symfony, AWS Lambda, JS, PHP, Cloud Reliability, CI/CD
+- 🌱 I’m currently learning AWS cloud engineering, Terraform, Lambda, JS, PHP
+- 💬 Ask me about PHP, JS, Adobe Commerce (Magento 2), GitHub Actions, AWS, Azure, Android
 - ⚡ Fun fact: I like fried chicken
-
 
 <!--
 **asrindayananda/asrindayananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
