@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Symfony, AWS Lambda, JS, PHP, Cloud Reliability, CI/CD
+- 🔭 I’m currently working on AWS, DevOps, Pipelines, Symfony, Lambda, JS, PHP, Cloud Reliability, CI/CD
 - 🌱 I’m currently learning AWS cloud engineering, Terraform, Lambda, JS, PHP
 - 💬 Ask me about PHP, JS, Adobe Commerce (Magento 2), GitHub Actions, AWS, Azure, Android
 - ⚡ Fun fact: I like fried chicken
